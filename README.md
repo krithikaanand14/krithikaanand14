@@ -27,9 +27,13 @@ I work at the intersection of **protein engineering, molecular biology, and bioc
 <a href="https://github.com/krithikaanand14/enzyme-thermostability-engineering"><img src="enzyme-project.svg" width="49%" alt="Master's thesis: Enzyme thermostability engineering — explore the project" /></a>
 <a href="https://github.com/krithikaanand14/fluorescent-protein-stability"><img src="fluorescence-project.svg" width="49%" alt="Research internship: Fluorescent protein stability — explore the project" /></a>
 
+<a href="https://github.com/krithikaanand14/vaccine-immune-response"><img src="immune-project.svg" width="49%" alt="Vaccine immune response research — explore the project" /></a>
+
 **01 / Enzyme engineering** — Molecular cloning, recombinant expression, purification, and thermal and functional characterization of a terpene synthase.
 
 **02 / Fluorescent protein stability** — Formulation screening and fluorescence-based investigation of protein behavior under thermal stress.
+
+**03 / Vaccine immune response** — PBMC handling, peptide-stimulation assays, biochemical measurements, and data analysis.
 
 <sub>Project repositories contain high-level summaries. Unpublished results, experimental designs, and internal laboratory details are excluded.</sub>
 
