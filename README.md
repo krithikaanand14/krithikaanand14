@@ -29,11 +29,15 @@ I work at the intersection of **protein engineering, molecular biology, and bioc
 
 <a href="https://github.com/krithikaanand14/vaccine-immune-response"><img src="immune-project.svg" width="49%" alt="Vaccine immune response research — explore the project" /></a>
 
+<a href="https://github.com/krithikaanand14/solid-oral-dosage-formulation"><img src="formulation-project.svg" width="49%" alt="Industry training in solid oral dosage formulation — explore the project" /></a>
+
 **01 / Enzyme engineering** — Molecular cloning, recombinant expression, purification, and thermal and functional characterization of a terpene synthase.
 
 **02 / Fluorescent protein stability** — Formulation screening and fluorescence-based investigation of protein behavior under thermal stress.
 
 **03 / Vaccine immune response** — PBMC handling, peptide-stimulation assays, biochemical measurements, and data analysis.
+
+**04 / Solid oral dosage formulation** — Industry training in powder preparation, granulation, compression, and coating; based on a jointly authored training report.
 
 <sub>Project repositories contain high-level summaries. Unpublished results, experimental designs, and internal laboratory details are excluded.</sub>
 
