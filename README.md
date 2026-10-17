@@ -1,95 +1,83 @@
+<p align="center">
+  <img src="profile-banner.svg" width="100%" alt="Krithika Anand — Protein engineering and molecular biology. Chemical Biotechnology at the Technical University of Munich." />
+</p>
+
 <div align="center">
 
-# Krithika Anand
-### Chemical Biotechnology · Protein Engineering · Molecular Biology
+### [🌿 PORTFOLIO](https://krithikaanand14.github.io/) &nbsp; / &nbsp; [💼 LINKEDIN](https://linkedin.com/in/krithikaanandofficial) &nbsp; / &nbsp; [✉️ CONTACT](mailto:krithikaanand19@gmail.com)
 
-**Curiosity. Precision. Discovery.**
-
-Exploring the potential of proteins through thoughtful experiments and reliable science.
-
-[🌿 Explore my portfolio](https://krithikaanand14.github.io/) &nbsp; • &nbsp; [💼 LinkedIn](https://linkedin.com/in/krithikaanandofficial) &nbsp; • &nbsp; [✉️ Let's connect](mailto:krithikaanand19@gmail.com)
-
-Munich, Germany · Technical University of Munich
+**PROTEIN SCIENCE** &nbsp; ✦ &nbsp; **MOLECULAR BIOLOGY** &nbsp; ✦ &nbsp; **EXPERIMENTAL DESIGN**
 
 </div>
 
----
+<br>
 
-## 🧬 About me
+## A little about the scientist
 
-I'm Krithika, an M.Sc. Chemical Biotechnology student at the Technical University of Munich with hands-on research experience in **protein engineering, molecular biology, and biochemical characterization**.
+I'm **Krithika Anand**, an M.Sc. Chemical Biotechnology student at the **Technical University of Munich**, based in Munich, Germany.
 
-I enjoy turning scientific questions into carefully designed experiments, troubleshooting at the bench, and making sense of the data. My experience spans enzyme engineering, fluorescent protein stability, and immune-response assays.
+I work at the intersection of **protein engineering, molecular biology, and biochemical characterization**. I enjoy turning a question into an experiment, troubleshooting at the bench, and finding the story in the data.
 
-**I'm interested in research opportunities where I can contribute strong laboratory skills, careful documentation, and a practical approach to solving scientific problems.**
+> **My approach:** Ask carefully. Experiment thoughtfully. Document clearly.
 
-## 🔬 Research spotlight
+<br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Selected research
 
-### Enzyme engineering
-**Master's thesis portfolio**
+<a href="https://github.com/krithikaanand14/enzyme-thermostability-engineering"><img src="enzyme-project.svg" width="49%" alt="Master's thesis: Enzyme thermostability engineering — explore the project" /></a>
+<a href="https://github.com/krithikaanand14/fluorescent-protein-stability"><img src="fluorescence-project.svg" width="49%" alt="Research internship: Fluorescent protein stability — explore the project" /></a>
 
-Rational engineering and characterization of a terpene synthase, connecting molecular cloning and recombinant expression with thermal and functional analysis.
+**01 / Enzyme engineering** — Molecular cloning, recombinant expression, purification, and thermal and functional characterization of a terpene synthase.
 
-**Focus:** Protein expression · Purification · DSC · GC–MS
+**02 / Fluorescent protein stability** — Formulation screening and fluorescence-based investigation of protein behavior under thermal stress.
 
-[Explore the project →](https://github.com/krithikaanand14/enzyme-thermostability-engineering)
+<sub>Project repositories contain high-level summaries. Unpublished results, experimental designs, and internal laboratory details are excluded.</sub>
 
-</td>
-<td width="50%" valign="top">
+<br>
 
-### Fluorescent protein stability
-**Research internship portfolio**
+## From the bench to the data
 
-Investigating protein behavior under thermal stress through formulation screening, fluorescence measurements, and comparative data interpretation.
+| 🧬 Build & express | 🧪 Measure & characterize | 📊 Interpret & document |
+| :--- | :--- | :--- |
+| Molecular cloning | FPLC purification | GraphPad Prism |
+| Site-directed mutagenesis | GC–MS & DSC | MS Excel & Google Colab |
+| Recombinant protein expression | ELISA & western blot | Experimental records |
+| Microbial culture & aseptic handling | Spectrophotometry | Comparative data interpretation |
 
-**Focus:** Protein handling · Spectrophotometry · Thermal assays
+<br>
 
-[Explore the project →](https://github.com/krithikaanand14/fluorescent-protein-stability)
+## The journey so far
 
-</td>
-</tr>
-</table>
+**TUM · Germany**  
+M.Sc. Chemical Biotechnology · Research experience at Campus Garching and Campus Straubing
 
-*These project repositories share high-level summaries and skills. Unpublished results and internal research details are excluded.*
+**Rajalakshmi Engineering College · India**  
+B.Tech. Biotechnology
 
-## 🧪 At the bench & beyond
+**University of Madras & MGM Healthcare · India**  
+Earlier laboratory experience in immune-response assays and clinical microbiology
 
-| Area | Techniques & tools |
-| :--- | :--- |
-| **Molecular biology** | Molecular cloning, site-directed mutagenesis, plasmid preparation, sequence verification |
-| **Protein science** | Recombinant expression, FPLC purification, thermal stability characterization |
-| **Analytical methods** | GC–MS, DSC, ELISA, western blot, spectrophotometry |
-| **Cell & microbial work** | Cell-based assays, microbial culture, aseptic handling |
-| **Data & documentation** | GraphPad Prism, Google Colab, MS Excel, structured experimental records |
+<details>
+<summary><b>📖 Explore my publication</b></summary>
 
-## 🎓 My path
+<br>
 
-**Technical University of Munich** · M.Sc. Chemical Biotechnology  
-Research experience at Campus Garching and Campus Straubing, Germany
+**Strategies for enhancing the efficacy of anaerobic digestion of food industry wastewater: An insight into bioreactor types, challenges, and future scope.**
 
-**Rajalakshmi Engineering College** · B.Tech. Biotechnology  
-Chennai, India
+*Chemosphere*, 2023 · [Read the publication ↗](https://www.sciencedirect.com/science/article/abs/pii/S0045653522033495)
 
-**Earlier laboratory experience** · University of Madras & MGM Healthcare  
-Immune-response assays and clinical microbiology workflows
+</details>
 
-## 📖 Publication
+<br>
 
-**Strategies for enhancing the efficacy of anaerobic digestion of food industry wastewater: An insight into bioreactor types, challenges, and future scope.**  
-*Chemosphere*, 2023 · [View publication ↗](https://www.sciencedirect.com/science/article/abs/pii/S0045653522033495)
-
----
+<a href="mailto:krithikaanand19@gmail.com"><img src="footer.svg" width="100%" alt="Good science starts with a conversation — contact Krithika Anand" /></a>
 
 <div align="center">
 
-### Good science starts with a conversation.
+**Interested in research opportunities and scientific collaboration.**
 
-[Portfolio](https://krithikaanand14.github.io/) · [LinkedIn](https://linkedin.com/in/krithikaanandofficial) · [Email](mailto:krithikaanand19@gmail.com)
+[Explore my work](https://krithikaanand14.github.io/) &nbsp; · &nbsp; [Let's connect on LinkedIn](https://linkedin.com/in/krithikaanandofficial)
 
-*Curiosity, carried forward.*
+<sub>Curiosity, carried forward.</sub>
 
 </div>
